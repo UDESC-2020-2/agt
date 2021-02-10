@@ -8,3 +8,4 @@ Conteúdo desse repositório:
 - `lista2.md`: lista de exercícios 2
 - `dobro.c`: algoritmo de exemplo
 - `notas.c`: algoritmo de exemplo
+- `impares.c`: algoritmo de exemplo
